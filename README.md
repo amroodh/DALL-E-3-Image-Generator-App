@@ -55,3 +55,10 @@ This is a Streamlit-based web application that allows users to generate images u
 
 - OpenAI for providing the powerful DALL-E 3 model.
 - Streamlit for creating an easy-to-use framework for building web apps with Python.
+
+## Demo
+
+https://github.com/user-attachments/assets/6cd8b3ef-5ac0-41a0-b8d8-fb0425e089fe
+
+
+
